@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/raspy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/raspy/static/js/main.b28037b8.chunk.js",
+    "main.js.map": "/raspy/static/js/main.b28037b8.chunk.js.map",
+    "runtime-main.js": "/raspy/static/js/runtime-main.41631cb7.js",
+    "runtime-main.js.map": "/raspy/static/js/runtime-main.41631cb7.js.map",
+    "static/js/2.c4790eff.chunk.js": "/raspy/static/js/2.c4790eff.chunk.js",
+    "static/js/2.c4790eff.chunk.js.map": "/raspy/static/js/2.c4790eff.chunk.js.map",
+    "index.html": "/raspy/index.html",
+    "precache-manifest.84df48b796fbd3ac86ea0d596477a3b9.js": "/raspy/precache-manifest.84df48b796fbd3ac86ea0d596477a3b9.js",
+    "service-worker.js": "/raspy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/raspy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c4790eff.chunk.js.LICENSE": "/raspy/static/js/2.c4790eff.chunk.js.LICENSE",
+    "static/media/Pie Dark.png": "/raspy/static/media/Pie Dark.8f5267b1.png",
+    "static/media/Trend Dark.png": "/raspy/static/media/Trend Dark.1edff8ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41631cb7.js",
+    "static/js/2.c4790eff.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b28037b8.chunk.js"
+  ]
+}
