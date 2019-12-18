@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33da34b79b975b21a85be645a0dadaba",
+    "revision": "124d3242af143d4d323cd191d65fb59d",
     "url": "/raspy/index.html"
   },
   {
-    "revision": "7192e2704988d931bfd0",
+    "revision": "d292c7cc880099f8807e",
     "url": "/raspy/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raspy/static/js/2.c4790eff.chunk.js.LICENSE"
   },
   {
-    "revision": "7192e2704988d931bfd0",
-    "url": "/raspy/static/js/main.df309275.chunk.js"
+    "revision": "d292c7cc880099f8807e",
+    "url": "/raspy/static/js/main.dc840efe.chunk.js"
   },
   {
     "revision": "e46c50d2960c0bcea9bd",
